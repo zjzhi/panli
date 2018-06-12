@@ -1,1 +1,1 @@
-# 51game
+# panli
