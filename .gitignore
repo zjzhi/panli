@@ -6,5 +6,6 @@ img/
 .git/
 
 *.zip
-
-.gitignore/
+./gulpfile.js
+./.gitignore
+sass/
